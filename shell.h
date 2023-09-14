@@ -1,6 +1,8 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
+#define MAX_CMND 12
+
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
